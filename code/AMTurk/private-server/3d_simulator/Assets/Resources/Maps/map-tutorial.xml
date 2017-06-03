@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+  <map name="Tutorial">
+    <nodes>
+      <node x="0" y="0" item=""></node>
+      <node x="0" y="1" item="easel"></node>
+      <node x="0" y="2" item=""></node>
+      <node x="1" y="0" item="chair"></node>
+      <node x="1" y="1" item=""></node>
+      <node x="1" y="2" item="lamp"></node>
+    </nodes>
+    <edges>
+      <edge node1="0,0" node2="0,1" wall="fish" floor="blue"></edge>
+      <edge node1="0,1" node2="0,2" wall="fish" floor="blue"></edge>
+      <edge node1="1,0" node2="1,1" wall="butterfly" floor="brick"></edge>
+      <edge node1="1,1" node2="1,2" wall="butterfly" floor="brick"></edge>
+      <edge node1="0,0" node2="1,0" wall="tower" floor="grass"></edge>
+      <edge node1="0,1" node2="1,1" wall="tower" floor="gravel"></edge>
+      <edge node1="0,2" node2="1,2" wall="tower" floor="yellow"></edge>
+    </edges>
+  </map>

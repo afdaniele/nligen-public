@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5863AE8B-C824-96CC-B308-BD240A713460}") = "NLIGEN Virtual Environment Simulator", "Assembly-CSharp-firstpass.csproj", "{8FE5719B-0FF0-0AA8-235B-0F8BA054A651}"
+EndProject
+Project("{5863AE8B-C824-96CC-B308-BD240A713460}") = "NLIGEN Virtual Environment Simulator", "Assembly-CSharp.csproj", "{88E77F4E-4A74-1D89-3BC9-3798A4637C37}"
+EndProject
+Project("{5863AE8B-C824-96CC-B308-BD240A713460}") = "NLIGEN Virtual Environment Simulator", "Assembly-CSharp-Editor.csproj", "{9660840A-79D4-3CA5-926F-A2D5B0AEDD91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FE5719B-0FF0-0AA8-235B-0F8BA054A651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE5719B-0FF0-0AA8-235B-0F8BA054A651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE5719B-0FF0-0AA8-235B-0F8BA054A651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE5719B-0FF0-0AA8-235B-0F8BA054A651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E77F4E-4A74-1D89-3BC9-3798A4637C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E77F4E-4A74-1D89-3BC9-3798A4637C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E77F4E-4A74-1D89-3BC9-3798A4637C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E77F4E-4A74-1D89-3BC9-3798A4637C37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9660840A-79D4-3CA5-926F-A2D5B0AEDD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9660840A-79D4-3CA5-926F-A2D5B0AEDD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9660840A-79D4-3CA5-926F-A2D5B0AEDD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9660840A-79D4-3CA5-926F-A2D5B0AEDD91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
